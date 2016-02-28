@@ -1,0 +1,10 @@
+MySQL:
+sudo apt-get install mysql-server
+
+
+sudo service mysql start
+sudo service mysql stop
+sudo service mysql status
+
+
+CREATE DATABASE `wiki-ua` /*!40100 DEFAULT CHARACTER SET utf8 */;
